@@ -1,0 +1,50 @@
+body{
+    background-color: #FFCCD2;
+}
+div{
+    background-color:whitesmoke;
+    margin: 0 auto;
+    padding: 20px;
+    width: 900px;
+    border: solid 2px palevioletred;
+}
+#n1 {
+    text-align: center;
+    font-family:garamond;
+    font-size: 40px;
+    margin-top: 10px;
+}
+#n2 {
+    font-size: 25px;
+    text-align: center;
+}
+h2 {
+    font-size: 30px;
+    color:purple;
+}
+#n3{
+    color:#9C0F48;
+}
+h3{
+    color:#9C0F48;
+    font-size: 25px;
+}
+h4{
+    font-size: 20px;
+    color:purple;
+}
+legend{
+    color:#9C0F48;
+}
+#n6{
+    color: palevioletred;
+    text-align: center;
+    font-size: 25px;
+}
+#n7{
+    font-size: larger;
+}
+#t2{
+    font-size: larger;
+
+}
